@@ -26,6 +26,6 @@ Forecasted hourly ride volume using ARIMA and seasonal decomposition. Focused on
 
 ---
 
-**Let’s connect:**  
+## **Let’s connect:**  
 [LinkedIn](https://www.linkedin.com/in/joshfalling)  
 Also for fun: Board game designer & recording artist (2 albums streaming now!)
