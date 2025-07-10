@@ -1,6 +1,6 @@
 # Hi, I’m Josh Falling
 
-I'm a Data Scientist with 10+ years of experience in retail and eCommerce leadership, now applying data-driven insights through machine learning, forecasting, and NLP. I recently completed the TripleTen Data Science Bootcamp, where I built solo projects in Python and SQL focused on solving real-world business problems.
+I'm a Data Scientist with 10+ years of experience in retail and eCommerce leadership, now applying data-driven insights through machine learning and forecasting. I recently completed the TripleTen Data Science Bootcamp, where I built solo projects in Python and SQL focused on solving real-world business problems.
 
 ---
 
